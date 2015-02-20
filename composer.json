@@ -1,6 +1,6 @@
 {
-        "name": "silverstripe/wordpressimport",
-        "description": "Imports Wordpress content from an exported XML file",
+        "name": "thiagovandieten/export-wordpresstosilverstripe",
+        "description": "Imports Wordpress content from an exported XML file, a fork from silverstripe/wordpressimport-redux",
         "type": "silverstripe-module",
         "keywords": ["silverstripe","blog","wordpress", "migration"],
         "license": "BSD-3-Clause",
@@ -12,6 +12,10 @@
                 {
                         "name": "Damian Mooyman",
                         "email": "damian.mooyman@gmail.com"
+                },
+                {
+                        "name": "Thiago van Dieten",
+                        "email": "nktakumi@gmail.com"
                 }
         ],
         "require": {
