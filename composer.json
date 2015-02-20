@@ -1,6 +1,7 @@
 {
         "name": "thiagovandieten/export-wordpresstosilverstripe",
         "description": "Imports Wordpress content from an exported XML file, a fork from silverstripe/wordpressimport-redux",
+        "version" : "0.1.0-alpha1",
         "type": "silverstripe-module",
         "keywords": ["silverstripe","blog","wordpress", "migration"],
         "license": "BSD-3-Clause",
